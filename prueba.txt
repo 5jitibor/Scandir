@@ -1,0 +1,3467 @@
+Desktop
+	Espacio: 1.3767877Gb
+	Fecha de ultima modificacion:2020-06-09T06:31:23.791054Z
+	Fecha de ultimo acceso:2020-06-08T20:14:29.919642Z
+	Fecha de creacion:2017-01-28T17:53:05.585803Z
+	Permisos:
+		Ejecutar:  si
+		Leer:  si
+		Escribir:  si
+		Oculto:  no
+	Items: 334
+	Ficheros: 296
+	Subdirectorios: 38
+			1.jpg
+				Espacio: 106.97656Kb
+				Fecha de ultima modificacion:2020-06-07T07:12:28Z
+				Fecha de ultimo acceso:2020-06-07T09:14:56.508361Z
+				Fecha de creacion:2020-06-07T09:14:56.505369Z
+				Permisos:
+					Ejecutar:  si
+					Leer:  si
+					Escribir:  si
+					Oculto:  no
+			17726834-44e13cb4-f.pdf
+				Espacio: 44.55664Kb
+				Fecha de ultima modificacion:2020-05-04T16:00:57.708678Z
+				Fecha de ultimo acceso:2020-05-04T16:00:57.708678Z
+				Fecha de creacion:2020-05-04T16:00:57.196077Z
+				Permisos:
+					Ejecutar:  si
+					Leer:  si
+					Escribir:  si
+					Oculto:  no
+			2.jpg
+				Espacio: 82.7334Kb
+				Fecha de ultima modificacion:2020-06-07T07:12:28Z
+				Fecha de ultimo acceso:2020-06-07T09:14:56.512351Z
+				Fecha de creacion:2020-06-07T09:14:56.511353Z
+				Permisos:
+					Ejecutar:  si
+					Leer:  si
+					Escribir:  si
+					Oculto:  no
+			21.pdf
+				Espacio: 84.612305Kb
+				Fecha de ultima modificacion:2020-06-07T09:11:17.279127Z
+				Fecha de ultimo acceso:2020-06-07T09:11:17.279127Z
+				Fecha de creacion:2020-06-07T09:11:16.543076Z
+				Permisos:
+					Ejecutar:  si
+					Leer:  si
+					Escribir:  si
+					Oculto:  no
+			21.zip
+				Espacio: 190.00098Kb
+				Fecha de ultima modificacion:2020-06-07T09:12:35.52828Z
+				Fecha de ultimo acceso:2020-06-07T09:12:35.52828Z
+				Fecha de creacion:2020-06-07T09:12:35.042602Z
+				Permisos:
+					Ejecutar:  si
+					Leer:  si
+					Escribir:  si
+					Oculto:  no
+			6.Interviews.docx
+				Espacio: 1.0971832Mb
+				Fecha de ultima modificacion:2020-05-14T07:41:01.756936Z
+				Fecha de ultimo acceso:2020-05-14T07:41:01.756936Z
+				Fecha de creacion:2020-05-14T07:41:00.941755Z
+				Permisos:
+					Ejecutar:  si
+					Leer:  si
+					Escribir:  si
+					Oculto:  no
+			ANEXO AL CONTRATO DE ARRENDAMIENTO NUM 1780.docx
+				Espacio: 18.722656Kb
+				Fecha de ultima modificacion:2020-04-08T08:04:50Z
+				Fecha de ultimo acceso:2020-05-31T20:19:49.108239Z
+				Fecha de creacion:2020-04-07T19:31:49.83389Z
+				Permisos:
+					Ejecutar:  si
+					Leer:  si
+					Escribir:  si
+					Oculto:  no
+			AutoClicker-master
+				Espacio: 2.2978516Kb
+				Fecha de ultima modificacion:2020-02-13T15:50:51.557598Z
+				Fecha de ultimo acceso:2020-02-13T15:50:51.557598Z
+				Fecha de creacion:2020-02-13T15:48:03.310865Z
+				Permisos:
+					Ejecutar:  si
+					Leer:  si
+					Escribir:  si
+					Oculto:  no
+				Items: 3
+				Ficheros: 3
+				Subdirectorios: 0
+						Build.bat
+							Espacio: 114.0bytes
+							Fecha de ultima modificacion:2019-06-18T05:19:44Z
+							Fecha de ultimo acceso:2020-02-13T15:48:03.330384Z
+							Fecha de creacion:2020-02-13T15:48:03.329408Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						Program.cs
+							Espacio: 1.5654297Kb
+							Fecha de ultima modificacion:2019-06-18T05:19:44Z
+							Fecha de ultimo acceso:2020-02-13T15:48:03.338192Z
+							Fecha de creacion:2020-02-13T15:48:03.337216Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						README.md
+							Espacio: 636.0bytes
+							Fecha de ultima modificacion:2019-06-18T05:19:44Z
+							Fecha de ultimo acceso:2020-02-13T15:48:03.341121Z
+							Fecha de creacion:2020-02-13T15:48:03.341121Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+			Crazy Taxi por IsraelO99
+				Espacio: 80.53635Mb
+				Fecha de ultima modificacion:2012-06-03T18:37:56.396294Z
+				Fecha de ultimo acceso:2020-02-05T18:36:30.055405Z
+				Fecha de creacion:2020-02-05T18:36:28.526471Z
+				Permisos:
+					Ejecutar:  si
+					Leer:  si
+					Escribir:  si
+					Oculto:  no
+				Items: 230
+				Ficheros: 212
+				Subdirectorios: 18
+						Binc1.afs
+							Espacio: 12.185547Mb
+							Fecha de ultima modificacion:1999-12-03T23:50:56Z
+							Fecha de ultimo acceso:2020-02-05T18:36:28.610408Z
+							Fecha de creacion:2020-02-05T18:36:28.526471Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						Binc2.afs
+							Espacio: 11.488281Mb
+							Fecha de ultima modificacion:1999-12-03T23:51:02Z
+							Fecha de ultimo acceso:2020-02-05T18:36:28.686511Z
+							Fecha de creacion:2020-02-05T18:36:28.613311Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						Binc3.afs
+							Espacio: 3.4316406Mb
+							Fecha de ultima modificacion:1999-12-03T23:51:04Z
+							Fecha de ultimo acceso:2020-02-05T18:36:28.707983Z
+							Fecha de creacion:2020-02-05T18:36:28.688463Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						boot.bin
+							Espacio: 1.25Kb
+							Fecha de ultima modificacion:2000-04-27T11:15:42Z
+							Fecha de ultimo acceso:2020-02-05T18:36:28.709935Z
+							Fecha de creacion:2020-02-05T18:36:28.709935Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						bootflag_defo.bin
+							Espacio: 4.0Kb
+							Fecha de ultima modificacion:2000-04-27T11:16:08Z
+							Fecha de ultimo acceso:2020-02-05T18:36:28.713839Z
+							Fecha de creacion:2020-02-05T18:36:28.711888Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						bootflag_free.bin
+							Espacio: 4.0Kb
+							Fecha de ultima modificacion:2000-04-27T11:15:36Z
+							Fecha de ultimo acceso:2020-02-05T18:36:28.715791Z
+							Fecha de creacion:2020-02-05T18:36:28.715791Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						CourseDataA_DC3.bin
+							Espacio: 20.0Kb
+							Fecha de ultima modificacion:2000-04-27T11:15:36Z
+							Fecha de ultimo acceso:2020-02-05T18:36:28.718719Z
+							Fecha de creacion:2020-02-05T18:36:28.717743Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						CourseDataA_DCM.bin
+							Espacio: 20.0Kb
+							Fecha de ultima modificacion:2000-04-27T11:16:16Z
+							Fecha de ultimo acceso:2020-02-05T18:36:28.720671Z
+							Fecha de creacion:2020-02-05T18:36:28.720671Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						CourseDataA_ORG.bin
+							Espacio: 20.0Kb
+							Fecha de ultima modificacion:2000-04-27T11:16:06Z
+							Fecha de ultimo acceso:2020-02-05T18:36:28.725555Z
+							Fecha de creacion:2020-02-05T18:36:28.722623Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						CourseDataB_DC3.bin
+							Espacio: 20.0Kb
+							Fecha de ultima modificacion:2000-04-27T11:15:36Z
+							Fecha de ultimo acceso:2020-02-05T18:36:28.728483Z
+							Fecha de creacion:2020-02-05T18:36:28.727508Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						CourseDataB_DCM.bin
+							Espacio: 20.0Kb
+							Fecha de ultima modificacion:2000-04-27T11:16:16Z
+							Fecha de ultimo acceso:2020-02-05T18:36:28.730436Z
+							Fecha de creacion:2020-02-05T18:36:28.730436Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						CourseDataB_ORG.bin
+							Espacio: 20.0Kb
+							Fecha de ultima modificacion:2000-04-27T11:16:04Z
+							Fecha de ultimo acceso:2020-02-05T18:36:28.733372Z
+							Fecha de creacion:2020-02-05T18:36:28.732419Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						CRAZYTAXI_DC
+							Espacio: 11.5Kb
+							Fecha de ultima modificacion:2020-02-05T19:28:46.368108Z
+							Fecha de ultimo acceso:2020-02-05T19:28:46.368108Z
+							Fecha de creacion:2020-02-05T18:36:28.735347Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						Crazy_Taxi_PC.exe
+							Espacio: 1.5742188Mb
+							Fecha de ultima modificacion:2007-05-08T15:05:32Z
+							Fecha de ultimo acceso:2020-02-05T18:36:28.754835Z
+							Fecha de creacion:2020-02-05T18:36:28.737268Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						CTConfig.EXE
+							Espacio: 364.0Kb
+							Fecha de ultima modificacion:2002-06-16T09:51:52Z
+							Fecha de ultimo acceso:2020-02-05T18:36:28.788048Z
+							Fecha de creacion:2020-02-05T18:36:28.784156Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						endingCameraPoint.bin
+							Espacio: 408.0bytes
+							Fecha de ultima modificacion:2000-04-27T11:16:12Z
+							Fecha de ultimo acceso:2020-02-05T18:36:29.460321Z
+							Fecha de creacion:2020-02-05T18:36:28.820255Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						endingCameraPointAC.bin
+							Espacio: 408.0bytes
+							Fecha de ultima modificacion:2000-04-27T11:16:20Z
+							Fecha de ultimo acceso:2020-02-05T18:36:29.464218Z
+							Fecha de creacion:2020-02-05T18:36:29.46129Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						endingCameraPointDC.bin
+							Espacio: 408.0bytes
+							Fecha de ultima modificacion:2000-04-27T11:16:20Z
+							Fecha de ultimo acceso:2020-02-05T18:36:29.466171Z
+							Fecha de creacion:2020-02-05T18:36:29.466171Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						Font_all.png
+							Espacio: 13.479492Kb
+							Fecha de ultima modificacion:2002-05-22T08:02:20Z
+							Fecha de ultimo acceso:2020-02-05T18:36:29.467146Z
+							Fecha de creacion:2020-02-05T18:36:29.467146Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						Hospital_view.png
+							Espacio: 44.03125Kb
+							Fecha de ultima modificacion:2002-06-13T03:25:00Z
+							Fecha de ultimo acceso:2020-02-05T18:36:29.468122Z
+							Fecha de creacion:2020-02-05T18:36:29.468122Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						kyaku_tbl.bin
+							Espacio: 7.03125Kb
+							Fecha de ultima modificacion:2000-04-27T11:15:36Z
+							Fecha de ultimo acceso:2020-02-05T18:36:29.469098Z
+							Fecha de creacion:2020-02-05T18:36:29.469098Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						Landdc1.afs
+							Espacio: 1.75Mb
+							Fecha de ultima modificacion:1999-09-16T09:08:16Z
+							Fecha de ultimo acceso:2020-02-05T18:36:29.49057Z
+							Fecha de creacion:2020-02-05T18:36:29.47008Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						Landdc2.afs
+							Espacio: 1.75Mb
+							Fecha de ultima modificacion:1999-12-02T19:43:00Z
+							Fecha de ultimo acceso:2020-02-05T18:36:29.507162Z
+							Fecha de creacion:2020-02-05T18:36:29.492522Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						landmark.bin
+							Espacio: 1.25Mb
+							Fecha de ultima modificacion:2000-04-27T11:16:18Z
+							Fecha de ultimo acceso:2020-02-05T18:36:29.522809Z
+							Fecha de creacion:2020-02-05T18:36:29.508138Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						lang
+							Espacio: 264.0Kb
+							Fecha de ultima modificacion:2012-06-03T18:37:56.393294Z
+							Fecha de ultimo acceso:2020-02-05T18:36:29.530586Z
+							Fecha de creacion:2020-02-05T18:36:29.524757Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+							Items: 6
+							Ficheros: 6
+							Subdirectorios: 0
+									de.dll
+										Espacio: 44.0Kb
+										Fecha de ultima modificacion:2002-05-31T07:14:42Z
+										Fecha de ultimo acceso:2020-02-05T18:36:29.524757Z
+										Fecha de creacion:2020-02-05T18:36:29.524757Z
+										Permisos:
+											Ejecutar:  si
+											Leer:  si
+											Escribir:  si
+											Oculto:  no
+									en.dll
+										Espacio: 44.0Kb
+										Fecha de ultima modificacion:2002-05-31T07:14:36Z
+										Fecha de ultimo acceso:2020-02-05T18:36:29.525706Z
+										Fecha de creacion:2020-02-05T18:36:29.525706Z
+										Permisos:
+											Ejecutar:  si
+											Leer:  si
+											Escribir:  si
+											Oculto:  no
+									es.dll
+										Espacio: 44.0Kb
+										Fecha de ultima modificacion:2002-05-31T07:14:40Z
+										Fecha de ultimo acceso:2020-02-05T18:36:29.526682Z
+										Fecha de creacion:2020-02-05T18:36:29.526682Z
+										Permisos:
+											Ejecutar:  si
+											Leer:  si
+											Escribir:  si
+											Oculto:  no
+									fr.dll
+										Espacio: 44.0Kb
+										Fecha de ultima modificacion:2002-05-31T07:14:40Z
+										Fecha de ultimo acceso:2020-02-05T18:36:29.527696Z
+										Fecha de creacion:2020-02-05T18:36:29.527696Z
+										Permisos:
+											Ejecutar:  si
+											Leer:  si
+											Escribir:  si
+											Oculto:  no
+									it.dll
+										Espacio: 44.0Kb
+										Fecha de ultima modificacion:2002-05-31T07:14:42Z
+										Fecha de ultimo acceso:2020-02-05T18:36:29.52961Z
+										Fecha de creacion:2020-02-05T18:36:29.528645Z
+										Permisos:
+											Ejecutar:  si
+											Leer:  si
+											Escribir:  si
+											Oculto:  no
+									jap.dll
+										Espacio: 44.0Kb
+										Fecha de ultima modificacion:2002-05-22T04:22:52Z
+										Fecha de ultimo acceso:2020-02-05T18:36:29.530586Z
+										Fecha de creacion:2020-02-05T18:36:29.530586Z
+										Permisos:
+											Ejecutar:  si
+											Leer:  si
+											Escribir:  si
+											Oculto:  no
+						MyProg.exe
+							Espacio: 5.5Kb
+							Fecha de ultima modificacion:2007-07-01T11:53:12Z
+							Fecha de ultimo acceso:2020-02-05T18:36:29.531588Z
+							Fecha de creacion:2020-02-05T18:36:29.531588Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						Nono.png
+							Espacio: 22.125977Kb
+							Fecha de ultima modificacion:2002-06-16T08:44:02Z
+							Fecha de ultimo acceso:2020-02-05T18:36:29.531588Z
+							Fecha de creacion:2020-02-05T18:36:29.531588Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						NYR.exe
+							Espacio: 65.0918Kb
+							Fecha de ultima modificacion:2007-05-09T13:41:46Z
+							Fecha de ultimo acceso:2020-02-05T18:36:29.533548Z
+							Fecha de creacion:2020-02-05T18:36:29.532567Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						parasol.pol
+							Espacio: 40.30371Kb
+							Fecha de ultima modificacion:2000-04-27T11:15:36Z
+							Fecha de ultimo acceso:2020-02-05T18:36:29.534521Z
+							Fecha de creacion:2020-02-05T18:36:29.533548Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						Pizzah3.png
+							Espacio: 10.216797Kb
+							Fecha de ultima modificacion:2002-05-08T08:45:12Z
+							Fecha de ultimo acceso:2020-02-05T18:36:29.535466Z
+							Fecha de creacion:2020-02-05T18:36:29.535466Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						Pizzahd.png
+							Espacio: 23.583008Kb
+							Fecha de ultima modificacion:2030-05-08T09:07:58Z
+							Fecha de ultimo acceso:2020-02-05T18:36:29.53647Z
+							Fecha de creacion:2020-02-05T18:36:29.53647Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						pointEventData.bin
+							Espacio: 5.0Kb
+							Fecha de ultima modificacion:2000-04-27T11:16:36Z
+							Fecha de ultimo acceso:2020-02-05T18:36:29.537418Z
+							Fecha de creacion:2020-02-05T18:36:29.53647Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						pointEventDataDC.bin
+							Espacio: 3.125Kb
+							Fecha de ultima modificacion:2000-04-27T11:15:34Z
+							Fecha de ultimo acceso:2020-02-05T18:36:29.537418Z
+							Fecha de creacion:2020-02-05T18:36:29.537418Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						recCarDataAdv.bin
+							Espacio: 56.25Kb
+							Fecha de ultima modificacion:2000-04-27T11:16:10Z
+							Fecha de ultimo acceso:2020-02-05T18:36:29.538418Z
+							Fecha de creacion:2020-02-05T18:36:29.538418Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						recCarDataAdvAC.bin
+							Espacio: 56.25Kb
+							Fecha de ultima modificacion:2000-04-27T11:16:20Z
+							Fecha de ultimo acceso:2020-02-05T18:36:29.540372Z
+							Fecha de creacion:2020-02-05T18:36:29.53937Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						recCarDataAdvDC.bin
+							Espacio: 56.25Kb
+							Fecha de ultima modificacion:2000-04-27T11:16:20Z
+							Fecha de ultimo acceso:2020-02-05T18:36:29.541346Z
+							Fecha de creacion:2020-02-05T18:36:29.540372Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						recChgDataAdv1.bin
+							Espacio: 1.25Kb
+							Fecha de ultima modificacion:2000-04-27T11:15:16Z
+							Fecha de ultimo acceso:2020-02-05T18:36:29.541346Z
+							Fecha de creacion:2020-02-05T18:36:29.541346Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						recChgDataAdv2.bin
+							Espacio: 640.0bytes
+							Fecha de ultima modificacion:2000-04-27T11:15:36Z
+							Fecha de ultimo acceso:2020-02-05T18:36:29.542321Z
+							Fecha de creacion:2020-02-05T18:36:29.542321Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						recChgDataAdvAC.bin
+							Espacio: 1.25Kb
+							Fecha de ultima modificacion:2000-04-27T11:16:06Z
+							Fecha de ultimo acceso:2020-02-05T18:36:29.543274Z
+							Fecha de creacion:2020-02-05T18:36:29.543274Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						recChgDataAdvDC.bin
+							Espacio: 1.25Kb
+							Fecha de ultima modificacion:2000-04-27T11:16:06Z
+							Fecha de ultimo acceso:2020-02-05T18:36:29.544279Z
+							Fecha de creacion:2020-02-05T18:36:29.543274Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						recChgDataEnding.bin
+							Espacio: 1.25Kb
+							Fecha de ultima modificacion:2000-04-27T11:16:16Z
+							Fecha de ultimo acceso:2020-02-05T18:36:29.545225Z
+							Fecha de creacion:2020-02-05T18:36:29.544279Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						recChgDataEndingDC.bin
+							Espacio: 1.25Kb
+							Fecha de ultima modificacion:2000-04-27T11:15:32Z
+							Fecha de ultimo acceso:2020-02-05T18:36:29.546203Z
+							Fecha de creacion:2020-02-05T18:36:29.545225Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						recDataAdv1.bin
+							Espacio: 105.46875Kb
+							Fecha de ultima modificacion:2000-04-27T11:15:58Z
+							Fecha de ultimo acceso:2020-02-05T18:36:29.547178Z
+							Fecha de creacion:2020-02-05T18:36:29.546203Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						recDataAdv2.bin
+							Espacio: 105.46875Kb
+							Fecha de ultima modificacion:2000-04-27T11:16:04Z
+							Fecha de ultimo acceso:2020-02-05T18:36:29.549153Z
+							Fecha de creacion:2020-02-05T18:36:29.548178Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						recDataAdvAC.bin
+							Espacio: 105.46875Kb
+							Fecha de ultima modificacion:2000-04-27T11:16:22Z
+							Fecha de ultimo acceso:2020-02-05T18:36:29.550129Z
+							Fecha de creacion:2020-02-05T18:36:29.549153Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						recDataAdvDC.bin
+							Espacio: 105.46875Kb
+							Fecha de ultima modificacion:2000-04-27T11:16:22Z
+							Fecha de ultimo acceso:2020-02-05T18:36:29.551106Z
+							Fecha de creacion:2020-02-05T18:36:29.550129Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						recDataEnding.bin
+							Espacio: 105.46875Kb
+							Fecha de ultima modificacion:2000-04-27T11:16:14Z
+							Fecha de ultimo acceso:2020-02-05T18:36:29.552058Z
+							Fecha de creacion:2020-02-05T18:36:29.551106Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						recDataEndingAC.bin
+							Espacio: 105.46875Kb
+							Fecha de ultima modificacion:2000-04-27T11:15:54Z
+							Fecha de ultimo acceso:2020-02-05T18:36:29.554034Z
+							Fecha de creacion:2020-02-05T18:36:29.553034Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						recDataEndingDC.bin
+							Espacio: 105.46875Kb
+							Fecha de ultima modificacion:2000-04-27T11:15:56Z
+							Fecha de ultimo acceso:2020-02-05T18:36:29.554986Z
+							Fecha de creacion:2020-02-05T18:36:29.554034Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						secdata.bin
+							Espacio: 256.0bytes
+							Fecha de ultima modificacion:2000-04-27T11:16:36Z
+							Fecha de ultimo acceso:2020-02-05T18:36:29.555962Z
+							Fecha de creacion:2020-02-05T18:36:29.554986Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						send_gd
+							Espacio: 27.817936Mb
+							Fecha de ultima modificacion:2012-06-03T18:37:56.396294Z
+							Fecha de ultimo acceso:2020-02-05T18:36:29.556964Z
+							Fecha de creacion:2020-02-05T18:36:29.556964Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+							Items: 48
+							Ficheros: 47
+							Subdirectorios: 1
+									data
+										Espacio: 27.817936Mb
+										Fecha de ultima modificacion:2012-06-03T18:38:00.359766Z
+										Fecha de ultimo acceso:2020-02-05T18:36:29.766778Z
+										Fecha de creacion:2020-02-05T18:36:29.556964Z
+										Permisos:
+											Ejecutar:  si
+											Leer:  si
+											Escribir:  si
+											Oculto:  no
+										Items: 47
+										Ficheros: 47
+										Subdirectorios: 0
+												colDC1.bin
+													Espacio: 3.057167Mb
+													Fecha de ultima modificacion:2000-04-27T11:50:12Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.577447Z
+													Fecha de creacion:2020-02-05T18:36:29.556964Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												colDC2.bin
+													Espacio: 3.1175156Mb
+													Fecha de ultima modificacion:2000-04-27T11:49:54Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.602838Z
+													Fecha de creacion:2020-02-05T18:36:29.578409Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												colDC3.bin
+													Espacio: 1.7368507Mb
+													Fecha de ultima modificacion:2000-04-27T11:50:00Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.614549Z
+													Fecha de creacion:2020-02-05T18:36:29.603788Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												motDC.bin
+													Espacio: 2.7218056Mb
+													Fecha de ultima modificacion:2000-04-27T11:49:34Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.635049Z
+													Fecha de creacion:2020-02-05T18:36:29.615525Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												objDC1.bin
+													Espacio: 64.0Kb
+													Fecha de ultima modificacion:2000-04-27T11:50:06Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.636969Z
+													Fecha de creacion:2020-02-05T18:36:29.635994Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												objDC2.bin
+													Espacio: 64.0Kb
+													Fecha de ultima modificacion:2000-04-27T11:49:48Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.637945Z
+													Fecha de creacion:2020-02-05T18:36:29.636969Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												objDC3.bin
+													Espacio: 64.0Kb
+													Fecha de ultima modificacion:2000-04-27T11:49:56Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.638921Z
+													Fecha de creacion:2020-02-05T18:36:29.638921Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												polDC0.bin
+													Espacio: 2.2496796Mb
+													Fecha de ultima modificacion:2000-04-27T11:49:42Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.651637Z
+													Fecha de creacion:2020-02-05T18:36:29.638921Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												polDC1.bin
+													Espacio: 361.14844Kb
+													Fecha de ultima modificacion:2000-04-27T11:49:46Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.654569Z
+													Fecha de creacion:2020-02-05T18:36:29.652612Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												polDC2.bin
+													Espacio: 148.08594Kb
+													Fecha de ultima modificacion:2000-04-27T11:49:28Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.655541Z
+													Fecha de creacion:2020-02-05T18:36:29.654569Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												polDC3.bin
+													Espacio: 21.632812Kb
+													Fecha de ultima modificacion:2000-04-27T11:49:36Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.656521Z
+													Fecha de creacion:2020-02-05T18:36:29.655541Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												recAdvAC.bin
+													Espacio: 105.46875Kb
+													Fecha de ultima modificacion:2000-04-27T11:50:00Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.657466Z
+													Fecha de creacion:2020-02-05T18:36:29.656521Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												recAdvDC.bin
+													Espacio: 105.46875Kb
+													Fecha de ultima modificacion:2000-04-27T11:50:00Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.658475Z
+													Fecha de creacion:2020-02-05T18:36:29.657466Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												recEndAC.bin
+													Espacio: 105.46875Kb
+													Fecha de ultima modificacion:2000-04-27T11:50:00Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.659444Z
+													Fecha de creacion:2020-02-05T18:36:29.659444Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												recEndDC.bin
+													Espacio: 105.46875Kb
+													Fecha de ultima modificacion:2000-04-27T11:50:00Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.660421Z
+													Fecha de creacion:2020-02-05T18:36:29.660421Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												splDC1.bin
+													Espacio: 316.16797Kb
+													Fecha de ultima modificacion:2000-04-27T11:50:00Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.663322Z
+													Fecha de creacion:2020-02-05T18:36:29.661401Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												splDC2.bin
+													Espacio: 370.16016Kb
+													Fecha de ultima modificacion:2000-04-27T11:49:56Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.667226Z
+													Fecha de creacion:2020-02-05T18:36:29.664332Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												splDC3.bin
+													Espacio: 193.59766Kb
+													Fecha de ultima modificacion:2000-04-27T11:49:48Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.669205Z
+													Fecha de creacion:2020-02-05T18:36:29.667226Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												sprADV.bin
+													Espacio: 215.5Kb
+													Fecha de ultima modificacion:2000-04-27T11:49:48Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.670185Z
+													Fecha de creacion:2020-02-05T18:36:29.669205Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												sprBENG.bin
+													Espacio: 0.0bytes
+													Fecha de ultima modificacion:2000-04-27T11:49:24Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.671129Z
+													Fecha de creacion:2020-02-05T18:36:29.671129Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												sprBJAP.bin
+													Espacio: 0.0bytes
+													Fecha de ultima modificacion:2000-04-27T11:49:46Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.671129Z
+													Fecha de creacion:2020-02-05T18:36:29.671129Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												sprBOX.bin
+													Espacio: 75.375Kb
+													Fecha de ultima modificacion:2000-04-27T11:49:44Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.672139Z
+													Fecha de creacion:2020-02-05T18:36:29.672139Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												sprCENG.bin
+													Espacio: 96.0Kb
+													Fecha de ultima modificacion:2000-04-27T11:49:24Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.673082Z
+													Fecha de creacion:2020-02-05T18:36:29.673082Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												sprCFRE.bin
+													Espacio: 10.0Kb
+													Fecha de ultima modificacion:2000-04-27T11:50:12Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.674089Z
+													Fecha de creacion:2020-02-05T18:36:29.674089Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												sprCGER.bin
+													Espacio: 12.0Kb
+													Fecha de ultima modificacion:2000-04-27T11:50:12Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.675033Z
+													Fecha de creacion:2020-02-05T18:36:29.675033Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												sprCJAP.bin
+													Espacio: 88.0Kb
+													Fecha de ultima modificacion:2000-04-27T11:49:46Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.677017Z
+													Fecha de creacion:2020-02-05T18:36:29.675033Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												sprCOMM.bin
+													Espacio: 572.9375Kb
+													Fecha de ultima modificacion:2000-04-27T11:49:48Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.679948Z
+													Fecha de creacion:2020-02-05T18:36:29.677017Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												sprCSPA.bin
+													Espacio: 12.0Kb
+													Fecha de ultima modificacion:2000-04-27T11:50:12Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.680921Z
+													Fecha de creacion:2020-02-05T18:36:29.680921Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												sprDC0.bin
+													Espacio: 2.744629Mb
+													Fecha de ultima modificacion:2000-04-27T11:50:06Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.693578Z
+													Fecha de creacion:2020-02-05T18:36:29.681903Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												sprGAME.bin
+													Espacio: 1.2178955Mb
+													Fecha de ultima modificacion:2000-04-27T11:49:26Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.701417Z
+													Fecha de creacion:2020-02-05T18:36:29.694572Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												sprGENG.bin
+													Espacio: 120.0Kb
+													Fecha de ultima modificacion:2000-04-27T11:49:24Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.703338Z
+													Fecha de creacion:2020-02-05T18:36:29.702368Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												sprGJAP.bin
+													Espacio: 93.0Kb
+													Fecha de ultima modificacion:2000-04-27T11:49:46Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.704314Z
+													Fecha de creacion:2020-02-05T18:36:29.704314Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												sprMENG.bin
+													Espacio: 416.5Kb
+													Fecha de ultima modificacion:2000-04-27T11:49:22Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.708241Z
+													Fecha de creacion:2020-02-05T18:36:29.70529Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												sprMENU.bin
+													Espacio: 142.25Kb
+													Fecha de ultima modificacion:2000-04-27T11:49:24Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.709205Z
+													Fecha de creacion:2020-02-05T18:36:29.708241Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												sprMFRE.bin
+													Espacio: 107.0Kb
+													Fecha de ultima modificacion:2000-04-27T11:50:12Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.711169Z
+													Fecha de creacion:2020-02-05T18:36:29.710193Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												sprMGER.bin
+													Espacio: 110.5Kb
+													Fecha de ultima modificacion:2000-04-27T11:50:12Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.712122Z
+													Fecha de creacion:2020-02-05T18:36:29.711169Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												sprMJAP.bin
+													Espacio: 533.0Kb
+													Fecha de ultima modificacion:2000-04-27T11:49:46Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.716025Z
+													Fecha de creacion:2020-02-05T18:36:29.713098Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												sprMSPA.bin
+													Espacio: 102.0Kb
+													Fecha de ultima modificacion:2000-04-27T11:50:12Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.718002Z
+													Fecha de creacion:2020-02-05T18:36:29.717025Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												sprPAL.bin
+													Espacio: 359.25Kb
+													Fecha de ultima modificacion:2000-04-27T11:50:14Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.71995Z
+													Fecha de creacion:2020-02-05T18:36:29.718977Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												sprPENG.bin
+													Espacio: 416.0Kb
+													Fecha de ultima modificacion:2000-04-27T11:50:14Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.721882Z
+													Fecha de creacion:2020-02-05T18:36:29.720931Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												sprPFRE.bin
+													Espacio: 416.0Kb
+													Fecha de ultima modificacion:2000-04-27T11:50:16Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.723857Z
+													Fecha de creacion:2020-02-05T18:36:29.722858Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												sprPGER.bin
+													Espacio: 416.0Kb
+													Fecha de ultima modificacion:2000-04-27T11:50:16Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.724833Z
+													Fecha de creacion:2020-02-05T18:36:29.723857Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												sprPSPA.bin
+													Espacio: 416.0Kb
+													Fecha de ultima modificacion:2000-04-27T11:50:16Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.726788Z
+													Fecha de creacion:2020-02-05T18:36:29.725823Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												texDC0.bin
+													Espacio: 1.4632874Mb
+													Fecha de ultima modificacion:2000-04-27T11:49:38Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.739473Z
+													Fecha de creacion:2020-02-05T18:36:29.726788Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												texDC1.bin
+													Espacio: 1.1043701Mb
+													Fecha de ultima modificacion:2000-04-27T11:49:44Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.753113Z
+													Fecha de creacion:2020-02-05T18:36:29.74045Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												texDC2.bin
+													Espacio: 1.0457153Mb
+													Fecha de ultima modificacion:2000-04-27T11:49:28Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.765801Z
+													Fecha de creacion:2020-02-05T18:36:29.754089Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												texDC3.bin
+													Espacio: 781.65625Kb
+													Fecha de ultima modificacion:2000-04-27T11:49:30Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.775591Z
+													Fecha de creacion:2020-02-05T18:36:29.766778Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+						set_obj.bin
+							Espacio: 64.0Kb
+							Fecha de ultima modificacion:2000-04-27T11:15:56Z
+							Fecha de ultimo acceso:2020-02-05T18:36:29.776564Z
+							Fecha de creacion:2020-02-05T18:36:29.776564Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						set_obj.bin.clean
+							Espacio: 64.0Kb
+							Fecha de ultima modificacion:2000-04-27T11:16:12Z
+							Fecha de ultimo acceso:2020-02-05T18:36:29.777513Z
+							Fecha de creacion:2020-02-05T18:36:29.777513Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						set_obj.bin.dc
+							Espacio: 64.0Kb
+							Fecha de ultima modificacion:2000-04-27T11:16:22Z
+							Fecha de ultimo acceso:2020-02-05T18:36:29.778501Z
+							Fecha de creacion:2020-02-05T18:36:29.778501Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						set_obj.bin.dcm
+							Espacio: 64.0Kb
+							Fecha de ultima modificacion:2000-04-27T11:16:10Z
+							Fecha de ultimo acceso:2020-02-05T18:36:29.779465Z
+							Fecha de creacion:2020-02-05T18:36:29.779465Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						SoundData
+							Espacio: 3.364335Mb
+							Fecha de ultima modificacion:2012-06-03T18:38:00.468966Z
+							Fecha de ultimo acceso:2020-02-05T18:36:30.061257Z
+							Fecha de creacion:2020-02-05T18:36:29.78047Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+							Items: 104
+							Ficheros: 90
+							Subdirectorios: 14
+									aif
+										Espacio: 3.3609924Mb
+										Fecha de ultima modificacion:2012-06-03T18:38:04.254518Z
+										Fecha de ultimo acceso:2020-02-05T18:36:29.911226Z
+										Fecha de creacion:2020-02-05T18:36:29.781417Z
+										Permisos:
+											Ejecutar:  si
+											Leer:  si
+											Escribir:  si
+											Oculto:  no
+										Items: 89
+										Ficheros: 89
+										Subdirectorios: 0
+												air02.aif
+													Espacio: 57.003906Kb
+													Fecha de ultima modificacion:2000-10-10T04:38:48Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.782422Z
+													Fecha de creacion:2020-02-05T18:36:29.781417Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												bbell02.aif
+													Espacio: 47.91797Kb
+													Fecha de ultima modificacion:2000-10-10T04:36:48Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.78337Z
+													Fecha de creacion:2020-02-05T18:36:29.78337Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												bell01.aif
+													Espacio: 32.033203Kb
+													Fecha de ultima modificacion:2000-10-10T04:38:34Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.785352Z
+													Fecha de creacion:2020-02-05T18:36:29.784347Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												bell04.aif
+													Espacio: 62.84375Kb
+													Fecha de ultima modificacion:2000-10-10T04:38:34Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.787304Z
+													Fecha de creacion:2020-02-05T18:36:29.785352Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												bell06.aif
+													Espacio: 30.552734Kb
+													Fecha de ultima modificacion:2000-10-10T04:38:34Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.788282Z
+													Fecha de creacion:2020-02-05T18:36:29.787304Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												bicycle01.aif
+													Espacio: 120.322266Kb
+													Fecha de ultima modificacion:2000-10-10T04:38:06Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.791205Z
+													Fecha de creacion:2020-02-05T18:36:29.789226Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												bicycle02.aif
+													Espacio: 60.35742Kb
+													Fecha de ultima modificacion:2000-10-10T04:38:06Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.79313Z
+													Fecha de creacion:2020-02-05T18:36:29.792154Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												boat03_02_01.aif
+													Espacio: 11.810547Kb
+													Fecha de ultima modificacion:2000-10-10T04:38:16Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.794106Z
+													Fecha de creacion:2020-02-05T18:36:29.794106Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												boat05_01.aif
+													Espacio: 41.345703Kb
+													Fecha de ultima modificacion:2000-10-10T04:38:16Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.797033Z
+													Fecha de creacion:2020-02-05T18:36:29.795081Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												bowl01.aif
+													Espacio: 57.064453Kb
+													Fecha de ultima modificacion:2000-10-10T04:38:24Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.798043Z
+													Fecha de creacion:2020-02-05T18:36:29.797033Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												bowl07.aif
+													Espacio: 30.285156Kb
+													Fecha de ultima modificacion:2000-10-10T04:38:24Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.799988Z
+													Fecha de creacion:2020-02-05T18:36:29.798986Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												bra_loop20.aif
+													Espacio: 26.427734Kb
+													Fecha de ultima modificacion:2000-10-10T04:36:46Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.800964Z
+													Fecha de creacion:2020-02-05T18:36:29.799988Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												bra_loop21.aif
+													Espacio: 15.466797Kb
+													Fecha de ultima modificacion:2000-10-10T04:36:46Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.80194Z
+													Fecha de creacion:2020-02-05T18:36:29.800964Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												coin01.aif
+													Espacio: 29.509766Kb
+													Fecha de ultima modificacion:2002-06-11T10:15:40Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.802908Z
+													Fecha de creacion:2020-02-05T18:36:29.80194Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												coin03.aif
+													Espacio: 12.482422Kb
+													Fecha de ultima modificacion:2002-06-11T10:15:56Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.803892Z
+													Fecha de creacion:2020-02-05T18:36:29.802908Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												coin05.aif
+													Espacio: 21.41211Kb
+													Fecha de ultima modificacion:2000-10-10T04:36:46Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.804871Z
+													Fecha de creacion:2020-02-05T18:36:29.803892Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												coin06.aif
+													Espacio: 31.47461Kb
+													Fecha de ultima modificacion:2000-10-10T04:36:46Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.805845Z
+													Fecha de creacion:2020-02-05T18:36:29.804871Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												coins02.aif
+													Espacio: 40.410156Kb
+													Fecha de ultima modificacion:2000-10-10T04:36:46Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.806823Z
+													Fecha de creacion:2020-02-05T18:36:29.805845Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												cra01.aif
+													Espacio: 69.39453Kb
+													Fecha de ultima modificacion:2000-10-10T04:34:32Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.808776Z
+													Fecha de creacion:2020-02-05T18:36:29.807798Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												cra07.aif
+													Espacio: 29.033203Kb
+													Fecha de ultima modificacion:2000-10-10T04:34:32Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.809752Z
+													Fecha de creacion:2020-02-05T18:36:29.808776Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												cra08.aif
+													Espacio: 53.658203Kb
+													Fecha de ultima modificacion:2000-10-10T04:34:32Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.811705Z
+													Fecha de creacion:2020-02-05T18:36:29.809752Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												cra10.aif
+													Espacio: 17.419922Kb
+													Fecha de ultima modificacion:2000-10-10T04:34:32Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.812659Z
+													Fecha de creacion:2020-02-05T18:36:29.811705Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												cra18.aif
+													Espacio: 50.78125Kb
+													Fecha de ultima modificacion:2000-10-10T04:34:32Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.814636Z
+													Fecha de creacion:2020-02-05T18:36:29.813654Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												cra19.aif
+													Espacio: 31.970703Kb
+													Fecha de ultima modificacion:2000-10-10T04:38:24Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.816554Z
+													Fecha de creacion:2020-02-05T18:36:29.814636Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												doorkick01.aif
+													Espacio: 15.0625Kb
+													Fecha de ultima modificacion:2000-10-10T04:34:30Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.81753Z
+													Fecha de creacion:2020-02-05T18:36:29.816554Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												eg_start02.aif
+													Espacio: 51.58008Kb
+													Fecha de ultima modificacion:2000-10-10T04:36:46Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.818537Z
+													Fecha de creacion:2020-02-05T18:36:29.81753Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												funsui01.aif
+													Espacio: 65.25586Kb
+													Fecha de ultima modificacion:2000-10-10T04:38:34Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.820491Z
+													Fecha de creacion:2020-02-05T18:36:29.819513Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												gear01.aif
+													Espacio: 25.257812Kb
+													Fecha de ultima modificacion:2000-10-10T04:34:30Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.821434Z
+													Fecha de creacion:2020-02-05T18:36:29.821434Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												glass02.aif
+													Espacio: 48.20117Kb
+													Fecha de ultima modificacion:2000-10-10T04:34:30Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.823386Z
+													Fecha de creacion:2020-02-05T18:36:29.82241Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												hand01.aif
+													Espacio: 5.0214844Kb
+													Fecha de ultima modificacion:2000-10-10T04:34:30Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.824362Z
+													Fecha de creacion:2020-02-05T18:36:29.823386Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												handbrake01.aif
+													Espacio: 15.677734Kb
+													Fecha de ultima modificacion:2000-10-10T04:34:30Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.825368Z
+													Fecha de creacion:2020-02-05T18:36:29.824362Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												heli04.aif
+													Espacio: 60.22461Kb
+													Fecha de ultima modificacion:2000-10-10T04:38:34Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.827289Z
+													Fecha de creacion:2020-02-05T18:36:29.825368Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												horn01.aif
+													Espacio: 50.970703Kb
+													Fecha de ultima modificacion:2000-10-10T04:34:30Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.829241Z
+													Fecha de creacion:2020-02-05T18:36:29.828265Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												horn02.aif
+													Espacio: 75.47656Kb
+													Fecha de ultima modificacion:2000-10-10T04:34:28Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.831224Z
+													Fecha de creacion:2020-02-05T18:36:29.829241Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												horn05.aif
+													Espacio: 15.990234Kb
+													Fecha de ultima modificacion:2000-10-10T04:34:28Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.8322Z
+													Fecha de creacion:2020-02-05T18:36:29.831224Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												horn06.aif
+													Espacio: 39.83203Kb
+													Fecha de ultima modificacion:2000-10-10T04:34:28Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.833146Z
+													Fecha de creacion:2020-02-05T18:36:29.8322Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												horn_2.aif
+													Espacio: 29.33789Kb
+													Fecha de ultima modificacion:2000-10-10T04:34:28Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.835098Z
+													Fecha de creacion:2020-02-05T18:36:29.834152Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												horn_2_02.aif
+													Espacio: 28.240234Kb
+													Fecha de ultima modificacion:2000-10-10T04:34:28Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.836073Z
+													Fecha de creacion:2020-02-05T18:36:29.835098Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												kei11.aif
+													Espacio: 7.6933594Kb
+													Fecha de ultima modificacion:2000-10-10T04:34:28Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.837051Z
+													Fecha de creacion:2020-02-05T18:36:29.837051Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												k_str06.aif
+													Espacio: 28.953125Kb
+													Fecha de ultima modificacion:2000-10-10T04:34:28Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.838059Z
+													Fecha de creacion:2020-02-05T18:36:29.838059Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												k_str08.aif
+													Espacio: 39.257812Kb
+													Fecha de ultima modificacion:2000-10-10T04:34:28Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.840008Z
+													Fecha de creacion:2020-02-05T18:36:29.839033Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												mizu01.aif
+													Espacio: 47.23047Kb
+													Fecha de ultima modificacion:2000-10-10T04:36:46Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.840984Z
+													Fecha de creacion:2020-02-05T18:36:29.840008Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												mizu02.aif
+													Espacio: 51.845703Kb
+													Fecha de ultima modificacion:2000-10-10T04:36:44Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.84196Z
+													Fecha de creacion:2020-02-05T18:36:29.840984Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												mizu_L01.aif
+													Espacio: 62.789062Kb
+													Fecha de ultima modificacion:2000-10-10T04:38:22Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.843912Z
+													Fecha de creacion:2020-02-05T18:36:29.842906Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												mizu_loop01.aif
+													Espacio: 23.548828Kb
+													Fecha de ultima modificacion:2000-10-10T04:36:44Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.846809Z
+													Fecha de creacion:2020-02-05T18:36:29.844891Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												page02.aif
+													Espacio: 8.017578Kb
+													Fecha de ultima modificacion:2000-10-10T04:34:26Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.847785Z
+													Fecha de creacion:2020-02-05T18:36:29.846809Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												page03.aif
+													Espacio: 8.017578Kb
+													Fecha de ultima modificacion:2000-10-10T04:34:26Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.848788Z
+													Fecha de creacion:2020-02-05T18:36:29.847785Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												pass02.aif
+													Espacio: 56.882812Kb
+													Fecha de ultima modificacion:2000-10-10T04:34:26Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.849764Z
+													Fecha de creacion:2020-02-05T18:36:29.848788Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												pass03.aif
+													Espacio: 53.0Kb
+													Fecha de ultima modificacion:2000-10-10T04:34:26Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.851719Z
+													Fecha de creacion:2020-02-05T18:36:29.850742Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												Pbwo01.aif
+													Espacio: 28.841797Kb
+													Fecha de ultima modificacion:2000-10-10T04:39:06Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.85269Z
+													Fecha de creacion:2020-02-05T18:36:29.851719Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												Pmby01.aif
+													Espacio: 57.353516Kb
+													Fecha de ultima modificacion:2000-10-10T04:39:06Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.854644Z
+													Fecha de creacion:2020-02-05T18:36:29.853669Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												Pmwy01.aif
+													Espacio: 28.41211Kb
+													Fecha de ultima modificacion:2000-10-10T04:39:04Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.85562Z
+													Fecha de creacion:2020-02-05T18:36:29.854644Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												Pwby01.aif
+													Espacio: 28.841797Kb
+													Fecha de ultima modificacion:2000-10-10T04:39:04Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.857546Z
+													Fecha de creacion:2020-02-05T18:36:29.856597Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												Pwwy01.aif
+													Espacio: 34.478516Kb
+													Fecha de ultima modificacion:2000-10-10T04:39:04Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.858552Z
+													Fecha de creacion:2020-02-05T18:36:29.857546Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												rev03.aif
+													Espacio: 46.765625Kb
+													Fecha de ultima modificacion:2000-10-10T04:36:44Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.860505Z
+													Fecha de creacion:2020-02-05T18:36:29.858552Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												rev06.aif
+													Espacio: 38.273438Kb
+													Fecha de ultima modificacion:2000-10-10T04:36:44Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.86148Z
+													Fecha de creacion:2020-02-05T18:36:29.860505Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												rev07.aif
+													Espacio: 48.783203Kb
+													Fecha de ultima modificacion:2000-10-10T04:36:44Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.863433Z
+													Fecha de creacion:2020-02-05T18:36:29.862477Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												scream05.aif
+													Espacio: 33.29883Kb
+													Fecha de ultima modificacion:2000-10-10T04:34:26Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.865384Z
+													Fecha de creacion:2020-02-05T18:36:29.864409Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												scream06.aif
+													Espacio: 32.039062Kb
+													Fecha de ultima modificacion:2000-10-10T04:34:26Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.86633Z
+													Fecha de creacion:2020-02-05T18:36:29.865384Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												scream09.aif
+													Espacio: 27.003906Kb
+													Fecha de ultima modificacion:2000-10-10T04:34:26Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.867305Z
+													Fecha de creacion:2020-02-05T18:36:29.867305Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												sign04.aif
+													Espacio: 18.367188Kb
+													Fecha de ultima modificacion:2000-10-10T04:34:26Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.868308Z
+													Fecha de creacion:2020-02-05T18:36:29.868308Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												sign06.aif
+													Espacio: 17.261719Kb
+													Fecha de ultima modificacion:2000-10-10T04:36:44Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.869287Z
+													Fecha de creacion:2020-02-05T18:36:29.869287Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												sign09.aif
+													Espacio: 20.861328Kb
+													Fecha de ultima modificacion:2000-10-10T04:36:44Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.87026Z
+													Fecha de creacion:2020-02-05T18:36:29.87026Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												sign10.aif
+													Espacio: 16.386719Kb
+													Fecha de ultima modificacion:2000-10-10T04:36:44Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.871236Z
+													Fecha de creacion:2020-02-05T18:36:29.87026Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												sign12.aif
+													Espacio: 29.460938Kb
+													Fecha de ultima modificacion:2000-10-10T04:36:42Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.872186Z
+													Fecha de creacion:2020-02-05T18:36:29.871236Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												sign_n02.aif
+													Espacio: 5.5703125Kb
+													Fecha de ultima modificacion:2000-10-10T04:34:26Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.873162Z
+													Fecha de creacion:2020-02-05T18:36:29.873162Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												sign_n05.aif
+													Espacio: 2.7207031Kb
+													Fecha de ultima modificacion:2000-10-10T04:34:24Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.874167Z
+													Fecha de creacion:2020-02-05T18:36:29.873162Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												sign_n09.aif
+													Espacio: 9.912109Kb
+													Fecha de ultima modificacion:2000-10-10T04:34:24Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.875113Z
+													Fecha de creacion:2020-02-05T18:36:29.874167Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												sign_n10.aif
+													Espacio: 21.507812Kb
+													Fecha de ultima modificacion:2000-10-10T04:34:24Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.876118Z
+													Fecha de creacion:2020-02-05T18:36:29.875113Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												sign_n12.aif
+													Espacio: 12.123047Kb
+													Fecha de ultima modificacion:2000-10-10T04:34:24Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.877066Z
+													Fecha de creacion:2020-02-05T18:36:29.876118Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												sign_n13.aif
+													Espacio: 24.007812Kb
+													Fecha de ultima modificacion:2000-10-10T04:34:24Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.878042Z
+													Fecha de creacion:2020-02-05T18:36:29.877066Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												sign_n14.aif
+													Espacio: 18.773438Kb
+													Fecha de ultima modificacion:2000-10-10T04:34:24Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.879045Z
+													Fecha de creacion:2020-02-05T18:36:29.879045Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												skid02.aif
+													Espacio: 57.33203Kb
+													Fecha de ultima modificacion:2000-10-10T04:34:24Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.880993Z
+													Fecha de creacion:2020-02-05T18:36:29.880017Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												slide_loop01.aif
+													Espacio: 28.708984Kb
+													Fecha de ultima modificacion:2000-10-10T04:36:42Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.881969Z
+													Fecha de creacion:2020-02-05T18:36:29.880993Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												strear18.aif
+													Espacio: 19.833984Kb
+													Fecha de ultima modificacion:2000-10-10T04:38:16Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.88292Z
+													Fecha de creacion:2020-02-05T18:36:29.88292Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												subway01.aif
+													Espacio: 61.63086Kb
+													Fecha de ultima modificacion:2000-10-10T04:38:48Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.884872Z
+													Fecha de creacion:2020-02-05T18:36:29.883919Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												train01.aif
+													Espacio: 57.722656Kb
+													Fecha de ultima modificacion:2002-06-11T07:32:52Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.885873Z
+													Fecha de creacion:2020-02-05T18:36:29.884872Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												train_b02.aif
+													Espacio: 78.08789Kb
+													Fecha de ultima modificacion:2000-10-10T04:38:48Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.887824Z
+													Fecha de creacion:2020-02-05T18:36:29.886825Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												train_b03.aif
+													Espacio: 48.814453Kb
+													Fecha de ultima modificacion:2000-10-10T04:38:46Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.889781Z
+													Fecha de creacion:2020-02-05T18:36:29.888804Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												train_horn01.aif
+													Espacio: 74.19141Kb
+													Fecha de ultima modificacion:2000-10-10T04:38:46Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.892681Z
+													Fecha de creacion:2020-02-05T18:36:29.890759Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												train_horn02.aif
+													Espacio: 106.32617Kb
+													Fecha de ultima modificacion:2000-10-10T04:38:46Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.895609Z
+													Fecha de creacion:2020-02-05T18:36:29.892681Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												train_horn04.aif
+													Espacio: 82.24609Kb
+													Fecha de ultima modificacion:2000-10-10T04:38:44Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.898538Z
+													Fecha de creacion:2020-02-05T18:36:29.896605Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												tram03.aif
+													Espacio: 52.98633Kb
+													Fecha de ultima modificacion:2000-10-10T04:38:32Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.900492Z
+													Fecha de creacion:2020-02-05T18:36:29.899513Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												tramdai02.aif
+													Espacio: 106.6543Kb
+													Fecha de ultima modificacion:2000-10-10T04:38:32Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.903417Z
+													Fecha de creacion:2020-02-05T18:36:29.901466Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												t_scr02.aif
+													Espacio: 30.935547Kb
+													Fecha de ultima modificacion:2000-10-10T04:34:24Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.905397Z
+													Fecha de creacion:2020-02-05T18:36:29.904394Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												t_scr04.aif
+													Espacio: 33.695312Kb
+													Fecha de ultima modificacion:2000-10-10T04:34:24Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.907321Z
+													Fecha de creacion:2020-02-05T18:36:29.905397Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												t_scr08.aif
+													Espacio: 28.933594Kb
+													Fecha de ultima modificacion:2000-10-10T04:34:24Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.909273Z
+													Fecha de creacion:2020-02-05T18:36:29.907321Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												t_scr10.aif
+													Espacio: 31.517578Kb
+													Fecha de ultima modificacion:2000-10-10T04:34:22Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.91025Z
+													Fecha de creacion:2020-02-05T18:36:29.91025Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												wood01.aif
+													Espacio: 46.65039Kb
+													Fecha de ultima modificacion:2000-10-10T04:34:22Z
+													Fecha de ultimo acceso:2020-02-05T18:36:29.912202Z
+													Fecha de creacion:2020-02-05T18:36:29.911226Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+									music
+										Espacio: 0.0bytes
+										Fecha de ultima modificacion:2012-06-03T18:37:48.574378Z
+										Fecha de ultimo acceso:2020-02-05T18:36:30.061257Z
+										Fecha de creacion:2020-02-05T18:36:30.061257Z
+										Permisos:
+											Ejecutar:  si
+											Leer:  si
+											Escribir:  si
+											Oculto:  no
+										Items: 0
+										Ficheros: 0
+										Subdirectorios: 0
+									sedata.dat
+										Espacio: 3.4228516Kb
+										Fecha de ultima modificacion:2002-06-13T06:19:12Z
+										Fecha de ultimo acceso:2020-02-05T18:36:29.913178Z
+										Fecha de creacion:2020-02-05T18:36:29.913178Z
+										Permisos:
+											Ejecutar:  si
+											Leer:  si
+											Escribir:  si
+											Oculto:  no
+									stream
+										Espacio: 0.0bytes
+										Fecha de ultima modificacion:2012-06-03T18:37:48.636778Z
+										Fecha de ultimo acceso:2020-02-05T18:36:30.060282Z
+										Fecha de creacion:2020-02-05T18:36:30.05638Z
+										Permisos:
+											Ejecutar:  si
+											Leer:  si
+											Escribir:  si
+											Oculto:  no
+										Items: 11
+										Ficheros: 0
+										Subdirectorios: 11
+												A
+													Espacio: 0.0bytes
+													Fecha de ultima modificacion:2012-06-03T18:37:48.605578Z
+													Fecha de ultimo acceso:2020-02-05T18:36:30.05638Z
+													Fecha de creacion:2020-02-05T18:36:30.05638Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+													Items: 0
+													Ficheros: 0
+													Subdirectorios: 0
+												B
+													Espacio: 0.0bytes
+													Fecha de ultima modificacion:2012-06-03T18:37:48.605578Z
+													Fecha de ultimo acceso:2020-02-05T18:36:30.05638Z
+													Fecha de creacion:2020-02-05T18:36:30.05638Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+													Items: 0
+													Ficheros: 0
+													Subdirectorios: 0
+												C
+													Espacio: 0.0bytes
+													Fecha de ultima modificacion:2012-06-03T18:37:48.605578Z
+													Fecha de ultimo acceso:2020-02-05T18:36:30.057354Z
+													Fecha de creacion:2020-02-05T18:36:30.057354Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+													Items: 0
+													Ficheros: 0
+													Subdirectorios: 0
+												D
+													Espacio: 0.0bytes
+													Fecha de ultima modificacion:2012-06-03T18:37:48.605578Z
+													Fecha de ultimo acceso:2020-02-05T18:36:30.057354Z
+													Fecha de creacion:2020-02-05T18:36:30.057354Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+													Items: 0
+													Ficheros: 0
+													Subdirectorios: 0
+												DC
+													Espacio: 0.0bytes
+													Fecha de ultima modificacion:2012-06-03T18:37:48.605578Z
+													Fecha de ultimo acceso:2020-02-05T18:36:30.058338Z
+													Fecha de creacion:2020-02-05T18:36:30.058338Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+													Items: 0
+													Ficheros: 0
+													Subdirectorios: 0
+												DJ
+													Espacio: 0.0bytes
+													Fecha de ultima modificacion:2012-06-03T18:37:48.605578Z
+													Fecha de ultimo acceso:2020-02-05T18:36:30.058338Z
+													Fecha de creacion:2020-02-05T18:36:30.058338Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+													Items: 0
+													Ficheros: 0
+													Subdirectorios: 0
+												Pbwo
+													Espacio: 0.0bytes
+													Fecha de ultima modificacion:2012-06-03T18:37:48.605578Z
+													Fecha de ultimo acceso:2020-02-05T18:36:30.058338Z
+													Fecha de creacion:2020-02-05T18:36:30.058338Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+													Items: 0
+													Ficheros: 0
+													Subdirectorios: 0
+												pmby
+													Espacio: 0.0bytes
+													Fecha de ultima modificacion:2012-06-03T18:37:48.605578Z
+													Fecha de ultimo acceso:2020-02-05T18:36:30.05931Z
+													Fecha de creacion:2020-02-05T18:36:30.05931Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+													Items: 0
+													Ficheros: 0
+													Subdirectorios: 0
+												pmwy
+													Espacio: 0.0bytes
+													Fecha de ultima modificacion:2012-06-03T18:37:48.621178Z
+													Fecha de ultimo acceso:2020-02-05T18:36:30.05931Z
+													Fecha de creacion:2020-02-05T18:36:30.05931Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+													Items: 0
+													Ficheros: 0
+													Subdirectorios: 0
+												pwby
+													Espacio: 0.0bytes
+													Fecha de ultima modificacion:2012-06-03T18:37:48.621178Z
+													Fecha de ultimo acceso:2020-02-05T18:36:30.060282Z
+													Fecha de creacion:2020-02-05T18:36:30.060282Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+													Items: 0
+													Ficheros: 0
+													Subdirectorios: 0
+												pwwy
+													Espacio: 0.0bytes
+													Fecha de ultima modificacion:2012-06-03T18:37:48.636778Z
+													Fecha de ultimo acceso:2020-02-05T18:36:30.060282Z
+													Fecha de creacion:2020-02-05T18:36:30.060282Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+													Items: 0
+													Ficheros: 0
+													Subdirectorios: 0
+						symbol
+							Espacio: 0.0bytes
+							Fecha de ultima modificacion:2000-04-27T11:16:10Z
+							Fecha de ultimo acceso:2020-02-05T18:36:29.914182Z
+							Fecha de creacion:2020-02-05T18:36:29.914182Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						t
+							Espacio: 4.10616Mb
+							Fecha de ultima modificacion:2000-04-28T13:04:00Z
+							Fecha de ultimo acceso:2020-02-05T18:36:29.940537Z
+							Fecha de creacion:2020-02-05T18:36:29.914182Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						t.abs
+							Espacio: 1.5582438Mb
+							Fecha de ultima modificacion:2000-04-28T13:03:48Z
+							Fecha de ultimo acceso:2020-02-05T18:36:29.953193Z
+							Fecha de creacion:2020-02-05T18:36:29.940537Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						t.bin
+							Espacio: 1.339035Mb
+							Fecha de ultima modificacion:2000-04-28T13:04:14Z
+							Fecha de ultimo acceso:2020-02-05T18:36:29.989851Z
+							Fecha de creacion:2020-02-05T18:36:29.9542Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						t.gomi
+							Espacio: 96.0Kb
+							Fecha de ultima modificacion:2000-04-28T13:04:10Z
+							Fecha de ultimo acceso:2020-02-05T18:36:29.990828Z
+							Fecha de creacion:2020-02-05T18:36:29.989851Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						t.map
+							Espacio: 433.27344Kb
+							Fecha de ultima modificacion:2000-04-28T13:03:48Z
+							Fecha de ultimo acceso:2020-02-05T18:36:29.992779Z
+							Fecha de creacion:2020-02-05T18:36:29.991803Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						t.mot
+							Espacio: 4.10616Mb
+							Fecha de ultima modificacion:2000-04-28T13:03:54Z
+							Fecha de ultimo acceso:2020-02-05T18:36:30.028081Z
+							Fecha de creacion:2020-02-05T18:36:29.99373Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						t.sym
+							Espacio: 114.48535Kb
+							Fecha de ultima modificacion:2000-04-28T13:03:54Z
+							Fecha de ultimo acceso:2020-02-05T18:36:30.030034Z
+							Fecha de creacion:2020-02-05T18:36:30.029027Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						t2.bin
+							Espacio: 1.432785Mb
+							Fecha de ultima modificacion:2000-04-28T13:04:06Z
+							Fecha de ultimo acceso:2020-02-05T18:36:30.040739Z
+							Fecha de creacion:2020-02-05T18:36:30.030979Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						Taxi.cfg
+							Espacio: 152.0bytes
+							Fecha de ultima modificacion:2020-02-05T19:34:34.252023Z
+							Fecha de ultimo acceso:2020-02-05T19:34:34.252023Z
+							Fecha de creacion:2020-02-05T18:36:30.041714Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						Taxi.ffe
+							Espacio: 720.0bytes
+							Fecha de ultima modificacion:2002-05-10T09:44:50Z
+							Fecha de ultimo acceso:2020-02-05T18:36:30.042692Z
+							Fecha de creacion:2020-02-05T18:36:30.042692Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						TM_shopenter.png
+							Espacio: 10.525391Kb
+							Fecha de ultima modificacion:2002-06-13T03:24:28Z
+							Fecha de ultimo acceso:2020-02-05T18:36:30.044643Z
+							Fecha de creacion:2020-02-05T18:36:30.04371Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						unins000.dat
+							Espacio: 19.210938Kb
+							Fecha de ultima modificacion:2012-06-03T18:38:08.727941Z
+							Fecha de ultimo acceso:2020-02-05T18:36:30.045626Z
+							Fecha de creacion:2020-02-05T18:36:30.044643Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						unins000.exe
+							Espacio: 599.7637Kb
+							Fecha de ultima modificacion:2012-06-03T18:37:24.700025Z
+							Fecha de ultimo acceso:2020-02-05T18:36:30.05345Z
+							Fecha de creacion:2020-02-05T18:36:30.045626Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						WoodBox_x2.pol
+							Espacio: 9.140625Kb
+							Fecha de ultima modificacion:2000-04-27T11:16:28Z
+							Fecha de ultimo acceso:2020-02-05T18:36:30.054403Z
+							Fecha de creacion:2020-02-05T18:36:30.054403Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						ZBiasConfig.txt
+							Espacio: 336.0bytes
+							Fecha de ultima modificacion:2002-06-13T07:27:38Z
+							Fecha de ultimo acceso:2020-02-05T18:36:30.055405Z
+							Fecha de creacion:2020-02-05T18:36:30.054403Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+			Crazy Taxi por IsraelO99.rar
+				Espacio: 26.551022Mb
+				Fecha de ultima modificacion:2020-02-05T18:36:23.687791Z
+				Fecha de ultimo acceso:2020-02-05T18:36:23.687791Z
+				Fecha de creacion:2020-02-05T18:35:59.323159Z
+				Permisos:
+					Ejecutar:  si
+					Leer:  si
+					Escribir:  si
+					Oculto:  no
+			desktop.ini
+				Espacio: 282.0bytes
+				Fecha de ultima modificacion:2020-06-09T06:31:23.851892Z
+				Fecha de ultimo acceso:2020-06-09T06:31:23.851892Z
+				Fecha de creacion:2017-01-28T17:53:06.512229Z
+				Permisos:
+					Ejecutar:  si
+					Leer:  si
+					Escribir:  si
+					Oculto:  si
+			diploma.pdf
+				Espacio: 6.9202414Mb
+				Fecha de ultima modificacion:2020-04-08T15:43:33.938635Z
+				Fecha de ultimo acceso:2020-04-08T15:43:33.938635Z
+				Fecha de creacion:2020-04-08T15:43:33.426005Z
+				Permisos:
+					Ejecutar:  si
+					Leer:  si
+					Escribir:  si
+					Oculto:  no
+			DNIe_v14_1_0(64bits).exe
+				Espacio: 18.17984Mb
+				Fecha de ultima modificacion:2020-05-27T15:20:23.87302Z
+				Fecha de ultimo acceso:2020-05-27T15:20:23.87302Z
+				Fecha de creacion:2020-05-27T15:20:15.091882Z
+				Permisos:
+					Ejecutar:  si
+					Leer:  si
+					Escribir:  si
+					Oculto:  no
+			DS4Updater.exe
+				Espacio: 560.5Kb
+				Fecha de ultima modificacion:2015-12-18T22:41:00Z
+				Fecha de ultimo acceso:2020-05-15T14:04:01.929655Z
+				Fecha de creacion:2020-05-15T14:04:01.926726Z
+				Permisos:
+					Ejecutar:  si
+					Leer:  si
+					Escribir:  si
+					Oculto:  no
+			DS4Windows.exe
+				Espacio: 3.0214844Mb
+				Fecha de ultima modificacion:2016-10-08T21:17:38Z
+				Fecha de ultimo acceso:2020-05-15T14:03:57.567924Z
+				Fecha de creacion:2020-05-15T14:03:57.551333Z
+				Permisos:
+					Ejecutar:  si
+					Leer:  si
+					Escribir:  si
+					Oculto:  no
+			fotos
+				Espacio: 2.633624Mb
+				Fecha de ultima modificacion:2020-03-02T22:23:12.45156Z
+				Fecha de ultimo acceso:2020-03-02T22:23:12.45156Z
+				Fecha de creacion:2020-01-24T17:24:44.248914Z
+				Permisos:
+					Ejecutar:  si
+					Leer:  si
+					Escribir:  si
+					Oculto:  no
+				Items: 6
+				Ficheros: 6
+				Subdirectorios: 0
+						Accommodation in Tornio2.0.en.es.pdf
+							Espacio: 1.6025162Mb
+							Fecha de ultima modificacion:2020-02-22T08:56:10.415844Z
+							Fecha de ultimo acceso:2020-02-22T08:56:10.415844Z
+							Fecha de creacion:2020-02-22T08:56:10.101683Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						resumen_cap10.txt
+							Espacio: 2.5205078Kb
+							Fecha de ultima modificacion:2020-02-26T21:44:53.777351Z
+							Fecha de ultimo acceso:2020-02-26T21:44:53.777351Z
+							Fecha de creacion:2020-02-26T21:44:53.584866Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						Sist. Relacional bueno.docx
+							Espacio: 53.754883Kb
+							Fecha de ultima modificacion:2020-03-02T22:23:10.42058Z
+							Fecha de ultimo acceso:2020-03-02T22:23:10.42058Z
+							Fecha de creacion:2020-03-02T22:23:10.194185Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						WhatsApp Image 2020-01-24 at 18.24.19 (1).jpeg
+							Espacio: 414.5869Kb
+							Fecha de ultima modificacion:2020-01-24T17:24:57.089772Z
+							Fecha de ultimo acceso:2020-01-24T17:24:57.089772Z
+							Fecha de creacion:2020-01-24T17:24:56.888677Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						WhatsApp Image 2020-01-24 at 18.24.19.jpeg
+							Espacio: 492.98633Kb
+							Fecha de ultima modificacion:2020-01-24T17:24:49.148572Z
+							Fecha de ultimo acceso:2020-01-24T17:24:49.148572Z
+							Fecha de creacion:2020-01-24T17:24:48.941661Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						WhatsApp Video 2020-01-24 at 18.24.20.mp4
+							Espacio: 92.00586Kb
+							Fecha de ultima modificacion:2020-01-24T17:25:02.638164Z
+							Fecha de ultimo acceso:2020-01-24T17:25:02.638164Z
+							Fecha de creacion:2020-01-24T17:25:02.413685Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+			Invoice.pdf
+				Espacio: 101.618164Kb
+				Fecha de ultima modificacion:2020-06-06T08:24:53.965024Z
+				Fecha de ultimo acceso:2020-06-06T08:24:53.965024Z
+				Fecha de creacion:2020-06-06T08:24:53.562066Z
+				Permisos:
+					Ejecutar:  si
+					Leer:  si
+					Escribir:  si
+					Oculto:  no
+			JTableExamples
+				Espacio: 28.667969Kb
+				Fecha de ultima modificacion:2020-05-09T10:52:30.341959Z
+				Fecha de ultimo acceso:2020-05-09T10:52:30.342946Z
+				Fecha de creacion:2020-05-09T10:52:30.230073Z
+				Permisos:
+					Ejecutar:  si
+					Leer:  si
+					Escribir:  si
+					Oculto:  no
+				Items: 34
+				Ficheros: 21
+				Subdirectorios: 13
+						.classpath
+							Espacio: 301.0bytes
+							Fecha de ultima modificacion:2019-10-03T11:46:58Z
+							Fecha de ultimo acceso:2020-05-09T10:52:30.23107Z
+							Fecha de creacion:2020-05-09T10:52:30.230073Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						.project
+							Espacio: 390.0bytes
+							Fecha de ultima modificacion:2019-10-03T11:46:02Z
+							Fecha de ultimo acceso:2020-05-09T10:52:30.23506Z
+							Fecha de creacion:2020-05-09T10:52:30.23506Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						.settings
+							Espacio: 598.0bytes
+							Fecha de ultima modificacion:2020-05-09T10:52:30.290086Z
+							Fecha de ultimo acceso:2020-05-09T10:52:30.292082Z
+							Fecha de creacion:2020-05-09T10:52:30.238225Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+							Items: 1
+							Ficheros: 1
+							Subdirectorios: 0
+									org.eclipse.jdt.core.prefs
+										Espacio: 598.0bytes
+										Fecha de ultima modificacion:2019-10-03T11:47:00Z
+										Fecha de ultimo acceso:2020-05-09T10:52:30.291084Z
+										Fecha de creacion:2020-05-09T10:52:30.290086Z
+										Permisos:
+											Ejecutar:  si
+											Leer:  si
+											Escribir:  si
+											Oculto:  no
+						bin
+							Espacio: 15.3203125Kb
+							Fecha de ultima modificacion:2020-05-26T15:21:26.590073Z
+							Fecha de ultimo acceso:2020-05-26T15:21:26.590073Z
+							Fecha de creacion:2020-05-09T10:52:30.294078Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+							Items: 14
+							Ficheros: 9
+							Subdirectorios: 5
+									common
+										Espacio: 1.5605469Kb
+										Fecha de ultima modificacion:2020-05-26T15:21:26.629112Z
+										Fecha de ultimo acceso:2020-05-26T15:21:26.670104Z
+										Fecha de creacion:2020-05-26T15:21:26.585193Z
+										Permisos:
+											Ejecutar:  si
+											Leer:  si
+											Escribir:  si
+											Oculto:  no
+										Items: 1
+										Ficheros: 1
+										Subdirectorios: 0
+												Persona.class
+													Espacio: 1.5605469Kb
+													Fecha de ultima modificacion:2020-05-26T15:21:26.629112Z
+													Fecha de ultimo acceso:2020-05-26T15:21:26.629112Z
+													Fecha de creacion:2020-05-26T15:21:26.629112Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+									example1
+										Espacio: 1.6152344Kb
+										Fecha de ultima modificacion:2020-05-26T15:21:26.672056Z
+										Fecha de ultimo acceso:2020-05-26T15:21:26.680839Z
+										Fecha de creacion:2020-05-26T15:21:26.586168Z
+										Permisos:
+											Ejecutar:  si
+											Leer:  si
+											Escribir:  si
+											Oculto:  no
+										Items: 1
+										Ficheros: 1
+										Subdirectorios: 0
+												TableExample1.class
+													Espacio: 1.6152344Kb
+													Fecha de ultima modificacion:2020-05-26T15:21:26.673031Z
+													Fecha de ultimo acceso:2020-05-26T15:21:26.673031Z
+													Fecha de creacion:2020-05-26T15:21:26.672056Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+									example2
+										Espacio: 2.7421875Kb
+										Fecha de ultima modificacion:2020-05-26T15:21:26.683768Z
+										Fecha de ultimo acceso:2020-05-26T15:21:26.684744Z
+										Fecha de creacion:2020-05-26T15:21:26.587144Z
+										Permisos:
+											Ejecutar:  si
+											Leer:  si
+											Escribir:  si
+											Oculto:  no
+										Items: 2
+										Ficheros: 2
+										Subdirectorios: 0
+												MiListaDePersonasParaLaTabla.class
+													Espacio: 1.3632812Kb
+													Fecha de ultima modificacion:2020-05-26T15:21:26.681816Z
+													Fecha de ultimo acceso:2020-05-26T15:21:26.681816Z
+													Fecha de creacion:2020-05-26T15:21:26.681816Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												TableExample2.class
+													Espacio: 1.3789062Kb
+													Fecha de ultima modificacion:2020-05-26T15:21:26.683768Z
+													Fecha de ultimo acceso:2020-05-26T15:21:26.683768Z
+													Fecha de creacion:2020-05-26T15:21:26.683768Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+									example3
+										Espacio: 3.9765625Kb
+										Fecha de ultima modificacion:2020-05-26T15:21:26.696457Z
+										Fecha de ultimo acceso:2020-05-26T15:21:26.69841Z
+										Fecha de creacion:2020-05-26T15:21:26.58812Z
+										Permisos:
+											Ejecutar:  si
+											Leer:  si
+											Escribir:  si
+											Oculto:  no
+										Items: 2
+										Ficheros: 2
+										Subdirectorios: 0
+												MiListaDePersonas.class
+													Espacio: 2.8896484Kb
+													Fecha de ultima modificacion:2020-05-26T15:21:26.686697Z
+													Fecha de ultimo acceso:2020-05-26T15:21:26.686697Z
+													Fecha de creacion:2020-05-26T15:21:26.686697Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												TableExample3.class
+													Espacio: 1.0869141Kb
+													Fecha de ultima modificacion:2020-05-26T15:21:26.697432Z
+													Fecha de ultimo acceso:2020-05-26T15:21:26.697432Z
+													Fecha de creacion:2020-05-26T15:21:26.696457Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+									example4
+										Espacio: 5.4257812Kb
+										Fecha de ultima modificacion:2020-05-26T15:21:26.706216Z
+										Fecha de ultimo acceso:2020-05-26T15:21:26.707191Z
+										Fecha de creacion:2020-05-26T15:21:26.590073Z
+										Permisos:
+											Ejecutar:  si
+											Leer:  si
+											Escribir:  si
+											Oculto:  no
+										Items: 3
+										Ficheros: 3
+										Subdirectorios: 0
+												MiListaDePersonas.class
+													Espacio: 3.006836Kb
+													Fecha de ultima modificacion:2020-05-26T15:21:26.700361Z
+													Fecha de ultimo acceso:2020-05-26T15:21:26.700361Z
+													Fecha de creacion:2020-05-26T15:21:26.700361Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												ProgressCellRender.class
+													Espacio: 1.0458984Kb
+													Fecha de ultima modificacion:2020-05-26T15:21:26.704264Z
+													Fecha de ultimo acceso:2020-05-26T15:21:26.704264Z
+													Fecha de creacion:2020-05-26T15:21:26.704264Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												TableExample4.class
+													Espacio: 1.3730469Kb
+													Fecha de ultima modificacion:2020-05-26T15:21:26.706216Z
+													Fecha de ultimo acceso:2020-05-26T15:21:26.706216Z
+													Fecha de creacion:2020-05-26T15:21:26.706216Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+						src
+							Espacio: 12.088867Kb
+							Fecha de ultima modificacion:2020-05-09T10:52:30.366883Z
+							Fecha de ultimo acceso:2020-05-09T10:52:30.366883Z
+							Fecha de creacion:2020-05-09T10:52:30.341959Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+							Items: 14
+							Ficheros: 9
+							Subdirectorios: 5
+									common
+										Espacio: 926.0bytes
+										Fecha de ultima modificacion:2020-05-09T10:52:30.342946Z
+										Fecha de ultimo acceso:2020-05-09T10:52:30.345937Z
+										Fecha de creacion:2020-05-09T10:52:30.342946Z
+										Permisos:
+											Ejecutar:  si
+											Leer:  si
+											Escribir:  si
+											Oculto:  no
+										Items: 1
+										Ficheros: 1
+										Subdirectorios: 0
+												Persona.java
+													Espacio: 926.0bytes
+													Fecha de ultima modificacion:2019-10-03T11:46:18Z
+													Fecha de ultimo acceso:2020-05-09T10:52:30.342946Z
+													Fecha de creacion:2020-05-09T10:52:30.342946Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+									example1
+										Espacio: 1.2167969Kb
+										Fecha de ultima modificacion:2020-05-09T10:52:30.348929Z
+										Fecha de ultimo acceso:2020-05-09T10:52:30.349927Z
+										Fecha de creacion:2020-05-09T10:52:30.347932Z
+										Permisos:
+											Ejecutar:  si
+											Leer:  si
+											Escribir:  si
+											Oculto:  no
+										Items: 1
+										Ficheros: 1
+										Subdirectorios: 0
+												TableExample1.java
+													Espacio: 1.2167969Kb
+													Fecha de ultima modificacion:2020-05-04T09:30:50Z
+													Fecha de ultimo acceso:2020-05-09T10:52:30.348929Z
+													Fecha de creacion:2020-05-09T10:52:30.348929Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+									example2
+										Espacio: 1.7011719Kb
+										Fecha de ultima modificacion:2020-05-09T10:52:30.353917Z
+										Fecha de ultimo acceso:2020-05-09T10:52:30.355911Z
+										Fecha de creacion:2020-05-09T10:52:30.351921Z
+										Permisos:
+											Ejecutar:  si
+											Leer:  si
+											Escribir:  si
+											Oculto:  no
+										Items: 2
+										Ficheros: 2
+										Subdirectorios: 0
+												MiListaDePersonasParaLaTabla.java
+													Espacio: 676.0bytes
+													Fecha de ultima modificacion:2020-05-04T09:34:20Z
+													Fecha de ultimo acceso:2020-05-09T10:52:30.351921Z
+													Fecha de creacion:2020-05-09T10:52:30.351921Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												TableExample2.java
+													Espacio: 1.0410156Kb
+													Fecha de ultima modificacion:2020-05-04T09:39:18Z
+													Fecha de ultimo acceso:2020-05-09T10:52:30.353917Z
+													Fecha de creacion:2020-05-09T10:52:30.353917Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+									example3
+										Espacio: 3.0830078Kb
+										Fecha de ultima modificacion:2020-05-09T10:52:30.363889Z
+										Fecha de ultimo acceso:2020-05-09T10:52:30.364887Z
+										Fecha de creacion:2020-05-09T10:52:30.356908Z
+										Permisos:
+											Ejecutar:  si
+											Leer:  si
+											Escribir:  si
+											Oculto:  no
+										Items: 2
+										Ficheros: 2
+										Subdirectorios: 0
+												MiListaDePersonas.java
+													Espacio: 2.4482422Kb
+													Fecha de ultima modificacion:2020-05-04T10:07:46Z
+													Fecha de ultimo acceso:2020-05-09T10:52:30.357905Z
+													Fecha de creacion:2020-05-09T10:52:30.357905Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												TableExample3.java
+													Espacio: 650.0bytes
+													Fecha de ultima modificacion:2020-05-04T09:44:10Z
+													Fecha de ultimo acceso:2020-05-09T10:52:30.363889Z
+													Fecha de creacion:2020-05-09T10:52:30.363889Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+									example4
+										Espacio: 5.1835938Kb
+										Fecha de ultima modificacion:2020-05-09T10:52:30.376855Z
+										Fecha de ultimo acceso:2020-05-09T10:52:30.38284Z
+										Fecha de creacion:2020-05-09T10:52:30.366883Z
+										Permisos:
+											Ejecutar:  si
+											Leer:  si
+											Escribir:  si
+											Oculto:  no
+										Items: 3
+										Ficheros: 3
+										Subdirectorios: 0
+												MiListaDePersonas.java
+													Espacio: 2.8232422Kb
+													Fecha de ultima modificacion:2020-05-06T11:49:22Z
+													Fecha de ultimo acceso:2020-05-09T10:52:30.367879Z
+													Fecha de creacion:2020-05-09T10:52:30.367879Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												ProgressCellRender.java
+													Espacio: 1.5546875Kb
+													Fecha de ultima modificacion:2020-05-06T11:58:54Z
+													Fecha de ultimo acceso:2020-05-09T10:52:30.37486Z
+													Fecha de creacion:2020-05-09T10:52:30.37486Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+												TableExample4.java
+													Espacio: 825.0bytes
+													Fecha de ultima modificacion:2020-05-06T11:47:56Z
+													Fecha de ultimo acceso:2020-05-09T10:52:30.377852Z
+													Fecha de creacion:2020-05-09T10:52:30.376855Z
+													Permisos:
+														Ejecutar:  si
+														Leer:  si
+														Escribir:  si
+														Oculto:  no
+			MUsica PAPA
+				Espacio: 118.50496Mb
+				Fecha de ultima modificacion:2019-09-10T14:01:26.445662Z
+				Fecha de ultimo acceso:2019-09-10T14:01:26.745653Z
+				Fecha de creacion:2018-06-14T10:28:50.61Z
+				Permisos:
+					Ejecutar:  si
+					Leer:  si
+					Escribir:  si
+					Oculto:  no
+				Items: 14
+				Ficheros: 14
+				Subdirectorios: 0
+						Baila Morena   Hector El Father ft Tito El Bambino   Choreography by Adrian Rivera.mp3
+							Espacio: 10.522287Mb
+							Fecha de ultima modificacion:2019-08-22T04:37:08Z
+							Fecha de ultimo acceso:2019-09-10T14:01:20.968229Z
+							Fecha de creacion:2019-08-23T04:38:49.24Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						Baila Morena   Hector y Tito ft Don Omar  Glory.mp3
+							Espacio: 6.6523533Mb
+							Fecha de ultima modificacion:2019-08-22T04:36:20Z
+							Fecha de ultimo acceso:2019-09-10T14:01:21.362314Z
+							Fecha de creacion:2019-08-23T04:38:52.1Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						Becky G, Natti Natasha   Sin Pijama (Video Oficial).mp3
+							Espacio: 8.258188Mb
+							Fecha de ultima modificacion:2019-08-07T04:37:48Z
+							Fecha de ultimo acceso:2019-09-10T14:01:21.808005Z
+							Fecha de creacion:2019-08-23T04:38:54.07Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						Daddy Yankee u0026 Snow   Con Calma (Video Oficial).mp3
+							Espacio: 8.038462Mb
+							Fecha de ultima modificacion:2019-08-07T04:28:56Z
+							Fecha de ultimo acceso:2019-09-10T14:01:22.237342Z
+							Fecha de creacion:2019-08-23T04:38:56.04Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						Daddy Yankee u0026 Snow   Con Calma (Video Oficial)[1].mp3
+							Espacio: 8.038462Mb
+							Fecha de ultima modificacion:2019-08-07T04:31:06Z
+							Fecha de ultimo acceso:2019-09-10T14:01:22.651088Z
+							Fecha de creacion:2019-08-23T04:38:58.01Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						Daddy Yankee u0026 Snow   Con Calma (Video Oficial)[2].mp3
+							Espacio: 8.038462Mb
+							Fecha de ultima modificacion:2019-08-23T04:19:20Z
+							Fecha de ultimo acceso:2019-09-10T14:01:23.076114Z
+							Fecha de creacion:2019-08-23T04:38:59.98Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						DJ Snake   Taki Taki (ft Cardi B, Selena Gomez, Ozuna) (Letra) (Lyrics).mp3
+							Espacio: 8.108042Mb
+							Fecha de ultima modificacion:2019-08-07T04:35:16Z
+							Fecha de ultimo acceso:2019-09-10T14:01:23.49907Z
+							Fecha de creacion:2019-08-23T04:39:01.18Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						DJ Snake feat Selena Gomez, Ozuna u0026 Cardi B   Taki Taki (LetraLyrics).mp3
+							Espacio: 8.093393Mb
+							Fecha de ultima modificacion:2019-08-07T04:32:46Z
+							Fecha de ultimo acceso:2019-09-10T14:01:23.915399Z
+							Fecha de creacion:2019-08-23T04:39:03.13Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						ED SHEERAN   Shape Of You   Kyle Hanagami Choreography.mp3
+							Espacio: 12.215097Mb
+							Fecha de ultima modificacion:2019-08-23T04:20:34Z
+							Fecha de ultimo acceso:2019-09-10T14:01:24.521441Z
+							Fecha de creacion:2019-08-23T04:39:05.11Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						J Balvin BONITA feat Jowell u0026 Randy.mp3
+							Espacio: 13.960093Mb
+							Fecha de ultima modificacion:2019-08-07T04:34:24Z
+							Fecha de ultimo acceso:2019-09-10T14:01:25.263455Z
+							Fecha de creacion:2019-08-23T04:39:07.99Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						KIKE Y NAHIR  Love Bachata FRANCE  (Señorita DJ Tronky).mp3
+							Espacio: 7.096384Mb
+							Fecha de ultima modificacion:2019-08-08T04:48:12Z
+							Fecha de ultimo acceso:2019-09-10T14:01:25.651804Z
+							Fecha de creacion:2019-08-23T04:39:11.7Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						Reproducción del chat destacado.mp3
+							Espacio: 7.8388767Mb
+							Fecha de ultima modificacion:2019-08-08T04:49:58Z
+							Fecha de ultimo acceso:2019-09-10T14:01:26.089379Z
+							Fecha de creacion:2019-08-23T04:39:12.91Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						Scooby Doo Pa Pa   DJ kass   Ankit Sati Choreography.mp3
+							Espacio: 5.7743626Mb
+							Fecha de ultima modificacion:2019-08-06T04:42:58Z
+							Fecha de ultimo acceso:2019-09-10T14:01:26.411753Z
+							Fecha de creacion:2019-08-23T04:38:47.74Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						Tiësto u0026 Sevenn – BOOM   Street Dance Kids   Choreography Sabrina Lonis[1].mp3
+							Espacio: 5.8704987Mb
+							Fecha de ultima modificacion:2019-08-08T05:12:56Z
+							Fecha de ultimo acceso:2019-09-10T14:01:26.720746Z
+							Fecha de creacion:2019-08-23T04:38:48.15Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+			Nueva Carpeta
+				Espacio: 0.0bytes
+				Fecha de ultima modificacion:2020-04-27T09:22:13.565127Z
+				Fecha de ultimo acceso:2020-04-27T09:22:13.565127Z
+				Fecha de creacion:2020-04-27T09:22:13.565127Z
+				Permisos:
+					Ejecutar:  si
+					Leer:  si
+					Escribir:  si
+					Oculto:  no
+				Items: 0
+				Ficheros: 0
+				Subdirectorios: 0
+			ORGANIZACIÓN CENTROS 20_21.pdf
+				Espacio: 280.04102Kb
+				Fecha de ultima modificacion:2020-06-05T15:58:50.382423Z
+				Fecha de ultimo acceso:2020-06-05T15:58:50.382423Z
+				Fecha de creacion:2020-06-05T15:58:49.658358Z
+				Permisos:
+					Ejecutar:  si
+					Leer:  si
+					Escribir:  si
+					Oculto:  no
+			recoger.pdf
+				Espacio: 65.950195Kb
+				Fecha de ultima modificacion:2020-04-10T07:58:03.766477Z
+				Fecha de ultimo acceso:2020-04-10T07:58:03.766477Z
+				Fecha de creacion:2020-04-10T07:58:03.506174Z
+				Permisos:
+					Ejecutar:  si
+					Leer:  si
+					Escribir:  si
+					Oculto:  no
+			Thumbs.db
+				Espacio: 358.0Kb
+				Fecha de ultima modificacion:2018-04-30T20:23:08.298Z
+				Fecha de ultimo acceso:2017-05-01T10:55:22.549319Z
+				Fecha de creacion:2017-05-01T10:55:22.549319Z
+				Permisos:
+					Ejecutar:  si
+					Leer:  si
+					Escribir:  si
+					Oculto:  si
+			videos papa tutorial
+				Espacio: 1.1230364Gb
+				Fecha de ultima modificacion:2020-05-31T20:19:47.552444Z
+				Fecha de ultimo acceso:2020-05-31T20:19:47.552444Z
+				Fecha de creacion:2020-05-31T20:19:28.31249Z
+				Permisos:
+					Ejecutar:  si
+					Leer:  si
+					Escribir:  si
+					Oculto:  no
+				Items: 21
+				Ficheros: 21
+				Subdirectorios: 0
+						20200524_083906000_iOS.MOV
+							Espacio: 114.377304Mb
+							Fecha de ultima modificacion:2020-05-24T17:37:54Z
+							Fecha de ultimo acceso:2020-05-31T20:19:45.465569Z
+							Fecha de creacion:2020-05-24T17:37:57.468809Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						20200524_084108000_iOS.MOV
+							Espacio: 12.0568Mb
+							Fecha de ultima modificacion:2020-05-24T17:37:22Z
+							Fecha de ultimo acceso:2020-05-31T20:19:58Z
+							Fecha de creacion:2020-05-24T17:37:24.552284Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						20200524_084134000_iOS.MOV
+							Espacio: 23.918793Mb
+							Fecha de ultima modificacion:2020-05-24T17:37:24Z
+							Fecha de ultimo acceso:2020-05-31T20:19:58Z
+							Fecha de creacion:2020-05-24T17:37:27.622146Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						20200524_084219000_iOS.MOV
+							Espacio: 938.3867Kb
+							Fecha de ultima modificacion:2020-05-24T17:37:10Z
+							Fecha de ultimo acceso:2020-05-31T20:19:58Z
+							Fecha de creacion:2020-05-24T17:37:13.366565Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						20200524_084233000_iOS.MOV
+							Espacio: 11.935481Mb
+							Fecha de ultima modificacion:2020-05-24T17:37:15Z
+							Fecha de ultimo acceso:2020-05-31T20:19:58Z
+							Fecha de creacion:2020-05-24T17:37:18.703029Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						20200524_084255000_iOS.MOV
+							Espacio: 93.62679Mb
+							Fecha de ultima modificacion:2020-05-24T17:37:38Z
+							Fecha de ultimo acceso:2020-05-31T20:19:45.474569Z
+							Fecha de creacion:2020-05-24T17:37:40.27901Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						20200524_084432000_iOS.MOV
+							Espacio: 3.297309Mb
+							Fecha de ultima modificacion:2020-05-24T17:37:16Z
+							Fecha de ultimo acceso:2020-05-31T20:19:58Z
+							Fecha de creacion:2020-05-24T17:37:18.704983Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						20200524_084439000_iOS.MOV
+							Espacio: 37.361115Mb
+							Fecha de ultima modificacion:2020-05-24T17:37:08Z
+							Fecha de ultimo acceso:2020-05-31T20:19:58Z
+							Fecha de creacion:2020-05-24T17:37:10.981924Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						20200524_085239000_iOS.MOV
+							Espacio: 69.67779Mb
+							Fecha de ultima modificacion:2020-05-24T17:37:09Z
+							Fecha de ultimo acceso:2020-05-31T20:19:44.79076Z
+							Fecha de creacion:2020-05-24T17:37:10.979024Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						20200524_085449000_iOS.MOV
+							Espacio: 19.82093Mb
+							Fecha de ultima modificacion:2020-05-24T17:36:35Z
+							Fecha de ultimo acceso:2020-05-31T20:19:58Z
+							Fecha de creacion:2020-05-24T17:36:37.166314Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						20200524_101728000_iOS.MOV
+							Espacio: 79.484474Mb
+							Fecha de ultima modificacion:2020-05-24T17:37:14Z
+							Fecha de ultimo acceso:2020-05-31T20:19:44.798739Z
+							Fecha de creacion:2020-05-24T17:37:16.230404Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						20200524_101839000_iOS.MOV
+							Espacio: 126.529236Mb
+							Fecha de ultima modificacion:2020-05-24T17:37:16Z
+							Fecha de ultimo acceso:2020-05-31T20:19:58Z
+							Fecha de creacion:2020-05-24T17:37:16.228451Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						20200524_102026000_iOS.MOV
+							Espacio: 53.238426Mb
+							Fecha de ultima modificacion:2020-05-24T17:36:17Z
+							Fecha de ultimo acceso:2020-05-31T20:19:44.806717Z
+							Fecha de creacion:2020-05-24T17:36:19.301218Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						20200524_102110000_iOS.MOV
+							Espacio: 178.95227Mb
+							Fecha de ultima modificacion:2020-05-24T17:37:25Z
+							Fecha de ultimo acceso:2020-05-31T20:19:44.817688Z
+							Fecha de creacion:2020-05-24T17:37:27.618275Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						20200524_102342000_iOS.MOV
+							Espacio: 3.8890495Mb
+							Fecha de ultima modificacion:2020-05-24T17:35:05Z
+							Fecha de ultimo acceso:2020-05-31T20:19:58Z
+							Fecha de creacion:2020-05-24T17:35:09.273806Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						20200524_102411000_iOS.MOV
+							Espacio: 89.26737Mb
+							Fecha de ultima modificacion:2020-05-24T17:36:15Z
+							Fecha de ultimo acceso:2020-05-31T20:19:58Z
+							Fecha de creacion:2020-05-24T17:36:17.182581Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						20200524_102619000_iOS.MOV
+							Espacio: 98.60255Mb
+							Fecha de ultima modificacion:2020-05-24T17:36:15Z
+							Fecha de ultimo acceso:2020-05-31T20:19:58Z
+							Fecha de creacion:2020-05-24T17:36:17.179652Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						20200524_102758000_iOS.MOV
+							Espacio: 44.219723Mb
+							Fecha de ultima modificacion:2020-05-24T17:35:41Z
+							Fecha de ultimo acceso:2020-05-31T20:19:58Z
+							Fecha de creacion:2020-05-24T17:35:42.961886Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						20200524_102926000_iOS.MOV
+							Espacio: 34.422295Mb
+							Fecha de ultima modificacion:2020-05-24T17:35:29Z
+							Fecha de ultimo acceso:2020-05-31T20:19:58Z
+							Fecha de creacion:2020-05-24T17:35:32.288907Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						20200524_103701000_iOS.MOV
+							Espacio: 42.167206Mb
+							Fecha de ultima modificacion:2020-05-24T17:35:42Z
+							Fecha de ultimo acceso:2020-05-31T20:19:44.148436Z
+							Fecha de creacion:2020-05-24T17:35:42.958957Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+						20200524_103806000_iOS.MOV
+							Espacio: 12.227941Mb
+							Fecha de ultima modificacion:2020-05-24T17:35:15Z
+							Fecha de ultimo acceso:2020-05-31T20:19:58Z
+							Fecha de creacion:2020-05-24T17:35:18.28726Z
+							Permisos:
+								Ejecutar:  si
+								Leer:  si
+								Escribir:  si
+								Oculto:  no
+			Virtualización.pptx
+				Espacio: 444.8086Kb
+				Fecha de ultima modificacion:2020-05-27T09:28:23.959508Z
+				Fecha de ultimo acceso:2020-05-27T09:28:23.959508Z
+				Fecha de creacion:2020-05-27T09:28:23.189841Z
+				Permisos:
+					Ejecutar:  si
+					Leer:  si
+					Escribir:  si
+					Oculto:  no
+			WhatsApp Image 2020-06-06 at 10.31.18.jpeg
+				Espacio: 84.37793Kb
+				Fecha de ultima modificacion:2020-06-06T08:32:24.043912Z
+				Fecha de ultimo acceso:2020-06-06T08:32:24.043912Z
+				Fecha de creacion:2020-06-06T08:32:23.782588Z
+				Permisos:
+					Ejecutar:  si
+					Leer:  si
+					Escribir:  si
+					Oculto:  no
